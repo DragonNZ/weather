@@ -1,0 +1,8 @@
+{
+  "name": "weather",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "04a44f65"
+}
